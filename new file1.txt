@@ -4,3 +4,5 @@ abc
 
 change1
 change2
+
+stash1
